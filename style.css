@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+.firstnav{
+    background-color: rgb(27, 33, 53);
+    color: grey;
+}
+.secondnav a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    padding-left: 20px;
+
+}
+.secondnav{
+    background-color: rgb(21, 59, 121);
+}
+#inp{
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 220px;
+}
+.firstpage{
+    background-image: url("https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?cs=srgb&dl=pexels-mike-bird-120049.jpg&fm=jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.firstpage h1{
+    font-size: 80px;
+    padding-top: 50px;
+    font-weight: 800;
+}
+.zzz{
+    background-color: rgb(199, 130, 39);
+    margin-left: 47%;
+}
+.secpage{
+    background-image: url("https://www.shutterstock.com/image-illustration/sport-car-mockup-isolated-on-260nw-2285667633.jpg");
+    height: 100vh;
+    /* width: 100vw; */
+    background-size: cover;
+    background-position: center;
+}
+.cars{
+    padding-top: 90px;
+    font-size: 50px;
+}
+#lorem{
+    text-align: center;
+    width: 50vw;
+    height: 50vh;
+    margin-left: 25%;
+    color: rgb(38, 52, 59);
+}
+.rent{
+    background-color: rgb(222, 215, 215);
+    height: 15vh;
+}
+.rents{
+    width: 90px;
+    height: 60px;
+    background-color: rgb(223, 154, 69);
+}
+.reservation{
+    background-color: rgb(63, 41, 83);
+    height: 15vh;
+    color: white;
+}
